@@ -1,0 +1,20 @@
+Here's a list of the 1,000 most popular films on IMDB during the last decade
+
+Features of the dataset are:
+
+ Title :عنوان
+Genre : النوع
+ Description : وصف
+Director  : مخرج
+Actors : ممثلين
+Year :  عام
+Runtime :  مدة العرض
+Rating :  تقييم
+Votes :  الأصوات
+Revenue :   ربح
+كلما ارتفع مستوى Metascore ، زادت التقييمات الإيجابية للفيلم. 
+
+Try to see what you can come up with
+
+Dataset available at  
+https://drive.google.com/file/d/1NeIPF1aNZ6la3Ts0FZSPujQQGDWpZbrY/view?usp=sharing 
